@@ -14,4 +14,4 @@ ProjectEuler contains solutions to some of the most well-known computational pro
 
 3. All programs are meant for educational and entertainment purposes only. I am not and will not be held responsible in any way for any kind of damage, which might be caused by one or more of my programs being used maliciously and/or illegaly by a third-party.
 
-4. Project Euler and all of its assets are the sole intellectual propery of Colin Hughes.
+4. I do not own the rights to the products and/or services, which might be referenced in my programs.

@@ -2,7 +2,7 @@
 
 Welcome to ProjectEuler!
 
-This repository is meant for some of my personal side-projects, which I mainly pursue as a hobby during my own free time. For my ongoing, as well as my past school projects, please visit **DimitrisMantas**/iCollect, /Nu.mTools and /TriMeshTools.
+This repository is meant for one of my personal side-projects, which I mainly pursue as a hobby during my own free time. For my ongoing, as well as my past official projects, please visit **DimitrisMantas**/iCollect, /Nu.mTools and /TriMeshTools.
 
 ProjectEuler contains solutions to some of the most well-known computational problems, which are featured on the popular [website](https://projecteuler.net/) of the same name.
 

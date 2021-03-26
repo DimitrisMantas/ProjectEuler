@@ -4,7 +4,7 @@ Welcome to ProjectEuler!
 
 This repository is meant for some of my personal side-projects, which I mainly pursue as a hobby during my own free time. For my ongoing, as well as my past school projects, please visit **DimitrisMantas**/iCollect, /Nu.mTools and /TriMeshTools.
 
-ApplicationBots contains solutions to some of the most well-known computational problems, which are featured on the website [Project Euler](https://projecteuler.net/).
+ProjectEuler contains solutions to some of the most well-known computational problems, which are featured on the website [Project Euler](https://projecteuler.net/).
 
 ## Disclaimer
 
